@@ -8,7 +8,7 @@ Iniciando aprendizado em <img src="https://img.shields.io/badge/JavaScript-F7DF1
 <h2>:link:Conecte-se comigo</h2>
 <a href="https://www.linkedin.com/in/filipe-boneberge/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  </a>
 <br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipeboneberge)](https://github.com/filipeboneberge/github-readme-stats)
 <!--
 Here are some ideas to get you started:
 
