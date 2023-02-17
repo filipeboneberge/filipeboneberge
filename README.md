@@ -9,7 +9,7 @@ Iniciando aprendizado em <img src="https://img.shields.io/badge/JavaScript-F7DF1
 <a href="https://www.linkedin.com/in/filipe-boneberge/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  </a>
 <br>
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
