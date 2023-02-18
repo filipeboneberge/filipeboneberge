@@ -9,10 +9,7 @@ Iniciando aprendizado em <img src="https://img.shields.io/badge/JavaScript-F7DF1
 <a href="https://www.linkedin.com/in/filipe-boneberge/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">  </a>
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipeboneberge&layout=compact&show_icons=true&theme=buefy)](https://github.com/filipeboneberge/github-readme-stats)
-<br>
-<br>
-![filipeboneberge GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeboneberge&show_icons=true&theme=transparent)
+
 <!--
 Here are some ideas to get you started:
 
