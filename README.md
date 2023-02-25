@@ -12,8 +12,8 @@ Iniciando aprendizado em <img src="https://img.shields.io/badge/JavaScript-F7DF1
    
    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=filipeboneberge&theme=default">
    <div width="100%">
-   <img align="left"  width="48%"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipeboneberge&theme=default">
-   <img align="right" style="padding-left:0;" width="48%"src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filipeboneberge&theme=default">
+   <img align="left"  width="45%"src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=filipeboneberge&theme=default">
+   <img align="right" width="45%"src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filipeboneberge&theme=default">
   
   </div>
 <br>
