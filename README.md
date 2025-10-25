@@ -1,7 +1,7 @@
 # 👋 Olá, Me Chamo Filipe Boneberge
 
 ## 👨‍💻 Estou em transição de Carreira para a área de Desenvolvedor Front-End.
-## ✍ Sempre em contante aprendizado buscando conhecimento para conquistar minha tão sonhada vaga como DEV.
+## ✍ Sempre em constante aprendizado buscando conhecimento para conquistar minha tão sonhada vaga como DEV.
 
 ## 😁 Soft Skills
  ### 🤝 Trabalho em Equipe  🤔 Pensamento Crítico 😀 Empatia 💬 Comunicação
